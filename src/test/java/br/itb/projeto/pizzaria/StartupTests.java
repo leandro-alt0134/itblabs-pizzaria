@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x;
+package br.itb.projeto.pizzaria;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
