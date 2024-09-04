@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x.rest.controller;
+package br.itb.projeto.pizzaria.rest.controller;
 
 import java.util.List;
 
@@ -12,10 +12,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.itb.projeto.pizzaria3x.model.entity.Mensagem;
-import br.itb.projeto.pizzaria3x.rest.exception.ResourceNotFoundException;
-import br.itb.projeto.pizzaria3x.rest.response.MessageResponse;
-import br.itb.projeto.pizzaria3x.service.MensagemService;
+import br.itb.projeto.pizzaria.model.entity.Mensagem;
+import br.itb.projeto.pizzaria.rest.exception.ResourceNotFoundException;
+import br.itb.projeto.pizzaria.rest.response.MessageResponse;
+import br.itb.projeto.pizzaria.service.MensagemService;
 
 @RestController
 @RequestMapping("/mensagem/")

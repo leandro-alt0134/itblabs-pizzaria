@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x.service;
+package br.itb.projeto.pizzaria.service;
 
 import java.time.LocalDateTime;
 import java.util.Base64;
@@ -7,8 +7,8 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import br.itb.projeto.pizzaria3x.model.entity.Usuario;
-import br.itb.projeto.pizzaria3x.model.repository.UsuarioRepository;
+import br.itb.projeto.pizzaria.model.entity.Usuario;
+import br.itb.projeto.pizzaria.model.repository.UsuarioRepository;
 import jakarta.transaction.Transactional;
 
 @Service

@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x.rest.response;
+package br.itb.projeto.pizzaria.rest.response;
 
 public class MessageResponse {
 	

@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x.rest.controller;
+package br.itb.projeto.pizzaria.rest.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.itb.projeto.pizzaria3x.model.entity.Produto;
-import br.itb.projeto.pizzaria3x.service.ProdutoService;
+import br.itb.projeto.pizzaria.model.entity.Produto;
+import br.itb.projeto.pizzaria.service.ProdutoService;
 
 @RestController
 @RequestMapping("/produto/")

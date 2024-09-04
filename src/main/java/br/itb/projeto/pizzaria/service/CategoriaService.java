@@ -1,11 +1,11 @@
-package br.itb.projeto.pizzaria3x.service;
+package br.itb.projeto.pizzaria.service;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import br.itb.projeto.pizzaria3x.model.entity.Categoria;
-import br.itb.projeto.pizzaria3x.model.repository.CategoriaRepository;
+import br.itb.projeto.pizzaria.model.entity.Categoria;
+import br.itb.projeto.pizzaria.model.repository.CategoriaRepository;
 import jakarta.transaction.Transactional;
 
 @Service

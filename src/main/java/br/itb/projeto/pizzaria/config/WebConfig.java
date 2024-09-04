@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x.config;
+package br.itb.projeto.pizzaria.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

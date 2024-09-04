@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x.model.entity;
+package br.itb.projeto.pizzaria.model.entity;
 
 import java.time.LocalDateTime;
 

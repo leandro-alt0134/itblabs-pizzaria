@@ -1,4 +1,4 @@
-package br.itb.projeto.pizzaria3x;
+package br.itb.projeto.pizzaria;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
